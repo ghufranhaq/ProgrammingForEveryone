@@ -1,0 +1,5 @@
+if condition1:
+  define a pay variable that stores the equation
+elif condition2:
+  define a pay variable that stores the equation
+print result
