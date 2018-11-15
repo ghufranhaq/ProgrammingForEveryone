@@ -12,7 +12,8 @@ if h <= 40:
 
 elif h >= 40:
  rateabove40 = (1.5 * r)
- Pay40 = (h * r)
+ dif = (diff * rateabove40)
+ Pay40 = (h * r + dif)
 
  #pay = (h * r) +
  print(Pay40)
